@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I’m @imoscarz</h2>
 
-| [![Bilibili](https://img.shields.io/badge/Bilibili-imoscarz-blue?style=social&logo=bilibili)](https://space.bilibili.com/520436174) | [![Mail](https://img.shields.io/badge/Mail-one@imoscarz.me-blue?style=social&logo=gmail)](mailto:one@imoscarz.me) | [![Github](https://img.shields.io/badge/Github-imoscarz-black?style=social&logo=github)](https://github.com/imoscarz) | [![RSS](https://img.shields.io/badge/RSS-atom.xml-black?style=social&logo=RSS)](https://blog.imoscarz.me/post/index.xml) |
+| [![Bilibili](https://img.shields.io/badge/Bilibili-imoscarz-blue?style=social&logo=bilibili)](https://space.bilibili.com/520436174) | [![Mail](https://img.shields.io/badge/Mail-one@imoscarz.me-blue?style=social&logo=gmail)](mailto:one@imoscarz.me) | [![Github](https://img.shields.io/badge/Github-imoscarz-black?style=social&logo=github)](https://github.com/imoscarz) | [![RSS](https://img.shields.io/badge/RSS-index.xml-black?style=social&logo=RSS)](https://blog.imoscarz.me/post/index.xml) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
